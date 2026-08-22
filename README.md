@@ -12,7 +12,7 @@ The dashboard is designed from a **CEO / management perspective**: each page has
 
 The executive page provides a high-level snapshot of hotel performance and highlights the most important commercial KPIs and trends.
 
-![Executive View](assets/executive-view.png)
+![Executive View](https://github.com/DataAnalystSan16/San-Repo/blob/main/Executive%20View.png)
 
 **Key metrics shown**
 - Revenue
