@@ -34,7 +34,7 @@ The executive page provides a high-level snapshot of hotel performance and highl
 
 The revenue page focuses on **where revenue is coming from** and how it varies across properties, cities, room classes, booking platforms, and occupancy.
 
-![Revenue Analysis](https://github.com/DataAnalystSan16/San-Repo/blob/main/Revenue%20Analysis.png)
+![Revenue Analysis](https://github.com/DataAnalystSan16/hospitality-revenue-booking-analytics/blob/main/Revenue%20Analysis.png)
 
 **Key metrics shown**
 - Revenue
