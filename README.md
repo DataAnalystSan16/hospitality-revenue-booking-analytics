@@ -102,7 +102,7 @@ The booking page focuses on **customer booking behavior, cancellations, booking 
 
 The dashboard snapshot currently displays metrics such as:
 
-- **Revenue:** ₹1.7B+
+- **Revenue:** ₹2B+
 - **RevPAR:** ₹7.35K
 - **Occupancy:** 57.87%
 - **ADR:** ₹12.70K
@@ -288,7 +288,7 @@ Potential future improvements include:
 
 ## 👤 Author
 
-**Santosh Kumar**  
+**Santosh Kumar N**  
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
 This project is part of my journey toward becoming an interview-ready **Data Analyst**, with a focus on combining technical analysis with business understanding.
