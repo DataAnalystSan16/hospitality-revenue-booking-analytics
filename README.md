@@ -55,7 +55,7 @@ The revenue page focuses on **where revenue is coming from** and how it varies a
 
 The booking page focuses on **customer booking behavior, cancellations, booking timing, and weekday/weekend demand**.
 
-![Booking Analysis](https://github.com/DataAnalystSan16/San-Repo/blob/main/Bookings%20Analysis.png)
+![Booking Analysis]()
 
 **Key metrics shown**
 - Total Bookings
