@@ -55,7 +55,7 @@ The revenue page focuses on **where revenue is coming from** and how it varies a
 
 The booking page focuses on **customer booking behavior, cancellations, booking timing, and weekday/weekend demand**.
 
-![Booking Analysis]()
+![Booking Analysis](https://github.com/DataAnalystSan16/hospitality-revenue-booking-analytics/blob/main/Bookings%20Analysis.png)
 
 **Key metrics shown**
 - Total Bookings
