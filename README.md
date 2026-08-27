@@ -102,7 +102,7 @@ The booking page focuses on **customer booking behavior, cancellations, booking 
 
 The dashboard snapshot currently displays metrics such as:
 
-- **Revenue:** ₹2B+
+- **Revenue:** ₹2bn+
 - **RevPAR:** ₹7.35K
 - **Occupancy:** 57.87%
 - **ADR:** ₹12.70K
