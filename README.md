@@ -175,32 +175,6 @@ The report uses dimensional and fact-style tables including:
 
 This structure supports reusable measures, filtering, and analysis across different business dimensions.
 
----
-
-## 🗂️ Professional Project Structure
-
-```text
-hospitality-powerbi-analytics/
-│
-├── README.md
-│
-├── assets/
-│   ├── executive-view.png
-│   ├── revenue-analysis.png
-│   └── booking-analysis.png
-│
-├── docs/
-│   ├── business-questions.md
-│   ├── data-model.md
-│   └── insights.md
-│
-├── powerbi/
-│   └── Hospitality_Revenue_Booking_Analytics.pbix
-│
-└── data/
-    └── README.md
-```
-
 > The `.pbix` and source-data folders are shown as the recommended portfolio structure. Add those files only if you are comfortable sharing them publicly and the source data permits redistribution.
 
 ---
